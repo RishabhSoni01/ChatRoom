@@ -1,0 +1,45 @@
+npm i express
+
+npm i dotenv
+
+# so don't need to restart server every time there is a change
+# nodemon help restart the server
+npm i nodemon
+
+# chakra ui
+npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^5
+npm i @chakra-ui/icons
+
+# react router dom
+npm install react-router-dom
+
+# for fetching api
+npm i axios
+
+# connect to mongo db and make query from mongo db
+npm install mongoose
+
+# making command line more colorful
+npm i colors
+
+# automatically handle the errors
+npm i express-async-handler
+
+# json web token
+npm i jsonwebtoken
+
+# encrypt password
+npm i bcryptjs
+
+# react notification badge
+npm i react-notification-badge
+
+# react scrollable feed
+npm i react-scrollable-feed
+
+# real time updates
+npm install socket.io    //backend
+npm i socket.io-client    //frontend
+
+# animation
+npm i react-lottie
