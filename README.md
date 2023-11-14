@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=A3DA8D)
 <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript]([https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw13F-jN-ZGQgmRjfcLUcL2O&ust=1700037736817000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD8zZyMw4IDFQAAAAAdAAAAABAE))
 ![React Router Dom](https://img.shields.io/badge/-React%20Router%20Dom-61DAFB?style=flat-square&logo=reactrouter)
 ![Axios.js](https://img.shields.io/badge/-Axios.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 <br>
