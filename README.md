@@ -17,13 +17,7 @@
 <br>
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=000)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-F6D860?style=flat-square&logo=Socket.io&logoColor=010101)
-<br>
-<a href="https://github.com/RishabhSoni01/ChatRoom" alt="reference" target="_blank"><img src="http://img.shields.io/badge/-Reference-007ACC?style=flat-square&logo=github&logoColor=ffffff" > </a>
 
-<!--- ## [Website](https://talk-a-tive-chat-app.herokuapp.com/) -->
-
-
-<br>
 
 ## Tech Stack
 
