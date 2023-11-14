@@ -1,11 +1,12 @@
 {
-  "name": "talk-a-tive",
+  "name": "chatroom",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon backend/server.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+    "server": "nodemon backend/server.js",
+    "build": "npm install --legacy-peer-deps && npm install --legacy-peer-deps"
   },
   "author": "Rishabh Soni",
   "license": "ISC",
