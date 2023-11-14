@@ -11,19 +11,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=A3DA8D)
 <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/Javascript-8A2BE2)
 ![React Router Dom](https://img.shields.io/badge/-React%20Router%20Dom-61DAFB?style=flat-square&logo=reactrouter)
 ![Axios.js](https://img.shields.io/badge/-Axios.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 <br>
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=000)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-F6D860?style=flat-square&logo=Socket.io&logoColor=010101)
-<br>
-<a href="https://github.com/RishabhSoni01/ChatRoom" alt="reference" target="_blank"><img src="http://img.shields.io/badge/-Reference-007ACC?style=flat-square&logo=github&logoColor=ffffff" > </a>
 
-<!--- ## [Website](https://talk-a-tive-chat-app.herokuapp.com/) -->
-
-
-<br>
 
 ## Tech Stack
 
