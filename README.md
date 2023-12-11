@@ -1,9 +1,8 @@
 # Chat App (MERN)
 ![chatroom1](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/6ac6cd28-b47e-4c4a-a538-34796ab578b7)
 ![chatroom](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/857e577c-f8b5-4f04-8170-a7b20d778cf5)
-![chatroom3](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/8ca80e29-3021-43ad-9351-3171662f1fee)
-![chatroom4](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/541c1997-fd04-40b1-98ac-c79a8c3ce071)
 ![chatroom5](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/620f29d4-408c-4e87-8290-0909f2ffaf59)
+![chatroom4](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/541c1997-fd04-40b1-98ac-c79a8c3ce071)
 ![chatroom6](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/1165fee8-76a5-4281-9f84-6d46eb684469)
 
 <b>Talk to your friends! 🥳</b>
