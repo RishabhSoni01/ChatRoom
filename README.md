@@ -5,11 +5,13 @@
 ![chatroom4](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/541c1997-fd04-40b1-98ac-c79a8c3ce071)
 ![chatroom7](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/7f339771-59b3-4895-b18b-f19d3c474b19)
 ![chatroom6](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/1165fee8-76a5-4281-9f84-6d46eb684469)
+![chatroom8](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/df7c46dd-9e8e-47f9-a27e-950507aa95f1)
 
 <b>Talk to your friends! 🥳</b>
 
 >ChatRoom is a <b>Full Stack Chatting App.</b> <br>
 >Uses Socket.io for <b>real time communication</b> and stores user details in encrypted format in <b>Mongo DB Database.</b>
+
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
