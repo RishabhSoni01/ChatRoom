@@ -3,6 +3,7 @@
 ![chatroom](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/857e577c-f8b5-4f04-8170-a7b20d778cf5)
 ![chatroom5](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/620f29d4-408c-4e87-8290-0909f2ffaf59)
 ![chatroom4](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/541c1997-fd04-40b1-98ac-c79a8c3ce071)
+![chatroom7](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/7f339771-59b3-4895-b18b-f19d3c474b19)
 ![chatroom6](https://github.com/RishabhSoni01/ChatRoom/assets/80063042/1165fee8-76a5-4281-9f84-6d46eb684469)
 
 <b>Talk to your friends! 🥳</b>
