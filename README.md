@@ -1,4 +1,4 @@
-#Chat App (MERN)
+# Chat App (MERN)
 
 <b>Talk to your friends! 🥳</b>
 
